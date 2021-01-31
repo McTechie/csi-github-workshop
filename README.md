@@ -22,8 +22,8 @@
 ### To do List
 
 - [x] Create HTML file
-- [x] Create CSS file
-- [x] Create JS file
+- [ ] Create CSS file
+- [ ] Create JS file
 - [x] Create README
 
 > This is a Blockquote!
