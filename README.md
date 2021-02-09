@@ -1,36 +1,5 @@
-# Hello Learners! :zap:
+<img src="poster.png" />
 
-*Good Job* up until now. Just _a bit_ further.
-
-**Great Job** learning __all this!__
-
-[Click Me!](http://google.com)
-
-[Click Me!][1]
-
-[1]: http://google.com
-
-* First Item
-  - Internal Item
-* Second Item
-* Third Item
-
-- First Item
-- Second Item
-- Third Item
-
-### To do List
-
-- [x] Create HTML file
-- [ ] Create CSS file
-- [ ] Create JS file
-- [x] Create README
-
-> This is a Blockquote!
-
-`x > 0` is an inline code!
-
-```
-if x>0 :
-    print("Positive")
-```
+The workshop was divided into 2 parts:
+- [x] **Part 1 -** Introduction to Version Control, Git Basics and Branching
+- [x] **Part 2 -** Introduction to GitHub, GitHub Gist, Project Boards, Pull Requests, Open Source Best Practices
